@@ -6,26 +6,26 @@ I enjoy turning ideas into scalable digital experiences using modern frontend te
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 💻 Frontend Developer with expertise in CMS & eCommerce platforms
-* 🛍️ Specialized in:
+* Frontend Developer with expertise in CMS & eCommerce platforms
+* Specialized in:
 
   * WordPress Development
   * WooCommerce Stores
   * Shopify Themes & Customization
   * Webflow Development
-* ⚡ Familiar with modern JavaScript frameworks:
+* Familiar with modern JavaScript frameworks:
 
   * React
   * Next.js
   * Vue.js
-* 🎨 Passionate about responsive UI/UX and performance optimization
-* 🌍 Building websites that are fast, SEO-friendly, and user-focused
+* Passionate about responsive UI/UX and performance optimization
+* Building websites that are fast, SEO-friendly, and user-focused
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### CMS & eCommerce
 
@@ -51,33 +51,24 @@ I enjoy turning ideas into scalable digital experiences using modern frontend te
 
 ---
 
-## 📌 What I Do
+## What I Do
 
-✔️ Custom WordPress Theme Development
-✔️ WooCommerce Store Setup & Customization
-✔️ Shopify Theme Development
-✔️ Webflow Landing Pages & CMS
-✔️ Responsive Frontend Development
-✔️ Website Speed Optimization
-✔️ API Integration
-✔️ Pixel Perfect UI Conversion
-
----
-
-## 📈 GitHub Stats
-
-```txt
-🔥 Consistent Learner
-⚡ Building Modern Web Experiences
-🎯 Focused on Clean UI & Performance
-```
+* Custom WordPress Theme Development
+* WooCommerce Store Setup & Customization
+* Shopify Theme Development
+* Webflow Landing Pages & CMS
+* Responsive Frontend Development
+* Website Speed Optimization
+* API Integration
+* Pixel Perfect UI Conversion
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-* Portfolio: mdevan.vercel.app
-* Email: [rogerdonaroma@gmail.com](mailto:rogerdonaroma@gmail.com)
+* Consistent Learner
+* Building Modern Web Experiences
+* Focused on Clean UI & Performance
 
 ---
 
